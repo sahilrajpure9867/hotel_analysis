@@ -575,11 +575,10 @@ images/hotel.png
 
 📌 Dashboard Design
 
-📧 Email: your.email@example.com
+📧 Email: rajpuresahil9867@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/yourprofile
 
-🌐 GitHub: https://github.com/yourusername
 
 ---
 
